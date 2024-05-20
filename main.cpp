@@ -18,7 +18,7 @@ int main(){
     std::cout << "Enter to what base 0 < n <= 36: ";
     std::cin >> baseNumber;
 
-    if (!(0 < baseNumber < 37) || !(0 < startNumberBase < 37)) return 1;
+    if (0 > baseNumber || 37 < baseNumber || 0 > startNumberBase || 37 < startNumberBase) return 1;
 
     int startNumber = std::stoi(strStartNumber, nullptr, startNumberBase);
 
