@@ -6,7 +6,7 @@ int main(){
     // Idk at this point
     // New Branch. Again. Again
 
-    // New Branch
+    // New. Branch
     
     const std::string albet("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     std::string strStartNumber;
