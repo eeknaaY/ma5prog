@@ -3,7 +3,8 @@
 #include <cmath>
 
 int main(){
-    // New Branch. Again
+    // Idk at this point
+    // New Branch. Again. Again
     const std::string albet("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
     std::string strStartNumber;
     int startNumberBase;
